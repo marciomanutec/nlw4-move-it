@@ -16,7 +16,7 @@ export function Input() {
          name="texto"
         // value={textoInput}
          onChange={event => pegaTexto(event.target.value)} 
-       /* onChange={Event => setNome(Event.target.value)} PRECISA DO ONCLICK DO BUTTON   */
+       /* onChange={Event => setNome(Event.target.value)} PRECISA DO ONCLICK DO BUTTON  é manu  */
          /> 
        
         </div>
